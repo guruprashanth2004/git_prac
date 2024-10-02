@@ -1,2 +1,2 @@
 # git_prac
-for my trail
+for my trail usage
